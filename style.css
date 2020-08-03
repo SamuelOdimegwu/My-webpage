@@ -16,7 +16,7 @@ html {
 }
 
 header {
-    background-color: #40127E;
+    background: linear-gradient(#40127E, #40127E, #91AAFE, #40127E);
     color: white;
     border-bottom-style: double;
     border-bottom-right-radius: 50%;
@@ -70,6 +70,7 @@ input {
     text-align: center;
     width: 550px;
     margin: auto;
+    color: #D5A050;
 }
 
 #garfield {
