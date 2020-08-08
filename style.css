@@ -47,6 +47,10 @@ input {
     -o-border-radius: 5px;
 }
 
+::placeholder {
+    color: #40127E;
+}
+
 #form {
     margin: 15px auto;
 }
